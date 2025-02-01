@@ -29,8 +29,8 @@ To verify the configuration, use the following commands:
 - `show ip nat statistics`
 
 ## Author
-[Your Name]  
-[Your Contact Information]
+Ankit Gupta  
+230082
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
